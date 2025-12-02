@@ -1,0 +1,12 @@
+* {
+    font-family: 'Lexend', Verdana, Arial, sans-serif;
+}
+header {
+  position: fixed;
+  background-color: #FAFAFA;
+  width: 100;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+}
